@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">My First Application</string>
+    <string name="first_screen_text">0</string>
+    <string name="firstButtonText">Toast</string>
+    <string name="secondButtonText">Count</string>
+    <string name="thirdButtonText">Random</string>
 </resources>

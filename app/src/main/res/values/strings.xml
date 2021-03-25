@@ -4,4 +4,5 @@
     <string name="firstButtonText">Toast</string>
     <string name="secondButtonText">Count</string>
     <string name="thirdButtonText">Random</string>
+    <string name="random_heading">Это случайное число между 0 и %1d.</string>
 </resources>

@@ -31,6 +31,7 @@
         android:text="@string/firstButtonText"
         app:layout_constraintStart_toStartOf="parent"
         android:background="@color/buttonBackground"
+        android:onClick="toastMe"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Button
@@ -42,6 +43,7 @@
         android:text="@string/secondButtonText"
         app:layout_constraintStart_toEndOf="@+id/toast_button"
         android:background="@color/buttonBackground"
+        android:onClick="countMe"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <Button
